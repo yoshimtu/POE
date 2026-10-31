@@ -1,0 +1,29 @@
+{
+  "name": "Brood  Ward",
+  "base": "General's Brigandine",
+  "metadata": "Metadata/Items/Armours/BodyArmours/BodyStrDex16",
+  "rarity": 2,
+  "links": 6,
+  "quantity": 1,
+  "stackable": false,
+  "corrupted": null,
+  "mods": [],
+  "visible": false,
+  "tooltip_rows": [
+    "Brood Ward\nGeneral's Brigandine",
+    "Armour: 976",
+    "Armour: 460 (415-465)",
+    "Evasion Rating: 902",
+    "Evasion Rating: 460 (415-465)",
+    "Item Level: 85",
+    "Requires Level 67, 103 Str, 103 Dex",
+    "Account-bound",
+    "+38 to Armour\n96% increased Armour and Evasion\n+24 to maximum Life\n+46% to Fire Resistance\n24% increased Stun and Block Recovery\n+14% to Fire and Chaos Resistances",
+    "Prefix Modifier \"Urchin's\" (Tier: 3) \u2014 Life, Defences, Armour\n+38(33-48) to Armour\n+24(24-28) to maximum Life",
+    "Prefix Modifier \"Legend's\" (Tier: 2) \u2014 Defences, Armour, Evasion\n96(92-100)% increased Armour and Evasion",
+    "Suffix Modifier \"of Adamantite Skin\" (Tier: 2)\n24(23-25)% increased Stun and Block Recovery",
+    "Suffix Modifier \"of Tzteosh\" (Tier: 1) \u2014 Elemental, Fire, Resistance\n+46(46-48)% to Fire Resistance",
+    "Master Crafted Suffix Modifier \"of Craft\" \u2014 Elemental, Fire, Chaos, Resistance\n+14(13-15)% to Fire and Chaos Resistances"
+  ],
+  "sockets": 6
+}

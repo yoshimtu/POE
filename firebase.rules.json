@@ -1,0 +1,37 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "groups": {
+      "$group": {
+        ".read": "auth != null && data.child('members').child(auth.uid).exists()",
+        "meta": {
+          ".write": "auth != null && $group.matches(/^[a-f0-9]{32}$/) && !data.exists() && newData.child('owner').val() === auth.uid",
+          ".validate": "newData.hasChildren(['name','owner']) && newData.child('name').isString() && newData.child('name').val().length <= 80"
+        },
+        "members": {
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid && root.child('groups').child($group).child('meta').exists()",
+            ".validate": "newData.hasChildren(['name','seen']) && newData.child('name').isString() && newData.child('name').val().length <= 50 && newData.child('seen').isNumber()"
+          }
+        },
+        "shares": {
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid && root.child('groups').child($group).child('members').child(auth.uid).exists()"
+          }
+        },
+        "events": {
+          "$event": {
+            ".write": "auth != null && root.child('groups').child($group).child('members').child(auth.uid).exists() && !data.exists()",
+            ".validate": "newData.hasChildren(['author','kind','text','created']) && newData.child('text').isString() && newData.child('text').val().length <= 1000"
+          }
+        },
+        "versions": {
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid && root.child('groups').child($group).child('members').child(auth.uid).exists()"
+          }
+        }
+      }
+    }
+  }
+}

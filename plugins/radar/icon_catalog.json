@@ -1,0 +1,1228 @@
+{
+  "sources": [
+    "https://poedb.tw/us/MinimapIcons",
+    "https://poe2db.tw/us/MinimapIcons"
+  ],
+  "icons": {
+    "poe1:DeepwaterCursedTreasure": {
+      "file": "icons/poe1/DeepwaterCursedTreasure.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeepwaterCursedTreasure.webp"
+    },
+    "poe1:Mirage": {
+      "file": "icons/poe1/Mirage.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Mirage.webp"
+    },
+    "poe1:VillageShipping": {
+      "file": "icons/poe1/VillageShipping.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageShipping.webp"
+    },
+    "poe1:Sanctum": {
+      "file": "icons/poe1/Sanctum.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Sanctum.webp"
+    },
+    "poe1:Archnemesis": {
+      "file": "icons/poe1/Archnemesis.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Archnemesis.webp"
+    },
+    "poe1:ExpeditionDetonator": {
+      "file": "icons/poe1/ExpeditionDetonator.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionDetonator.webp"
+    },
+    "poe1:UltimatumAltar": {
+      "file": "icons/poe1/UltimatumAltar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/UltimatumAltar.webp"
+    },
+    "poe1:RitualRune": {
+      "file": "icons/poe1/RitualRune.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RitualRune.webp"
+    },
+    "poe1:HeistSumgglersCache": {
+      "file": "icons/poe1/HeistSumgglersCache.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistSumgglersCache.webp"
+    },
+    "poe1:HarvestPortal": {
+      "file": "icons/poe1/HarvestPortal.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestPortal.webp"
+    },
+    "poe1:AfflictionInitiator": {
+      "file": "icons/poe1/AfflictionInitiator.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AfflictionInitiator.webp"
+    },
+    "poe1:BlightCore": {
+      "file": "icons/poe1/BlightCore.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightCore.webp"
+    },
+    "poe1:LegionInitiator": {
+      "file": "icons/poe1/LegionInitiator.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LegionInitiator.webp"
+    },
+    "poe1:BetrayalSymbolCatarina": {
+      "file": "icons/poe1/BetrayalSymbolCatarina.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BetrayalSymbolCatarina.webp"
+    },
+    "poe1:DelveMineralVein": {
+      "file": "icons/poe1/DelveMineralVein.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DelveMineralVein.webp"
+    },
+    "poe1:IncursionCraftingBench": {
+      "file": "icons/poe1/IncursionCraftingBench.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionCraftingBench.webp"
+    },
+    "poe1:BestiaryRareMonster": {
+      "file": "icons/poe1/BestiaryRareMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BestiaryRareMonster.webp"
+    },
+    "poe1:Abyss": {
+      "file": "icons/poe1/Abyss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Abyss.webp"
+    },
+    "poe1:Breach": {
+      "file": "icons/poe1/Breach.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Breach.webp"
+    },
+    "poe1:Essence": {
+      "file": "icons/poe1/Essence.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Essence.webp"
+    },
+    "poe1:Strongbox": {
+      "file": "icons/poe1/Strongbox.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Strongbox.webp"
+    },
+    "poe1:Shrine": {
+      "file": "icons/poe1/Shrine.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Shrine.webp"
+    },
+    "poe1:ChartStorage": {
+      "file": "icons/poe1/ChartStorage.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChartStorage.webp"
+    },
+    "poe1:LegionCocoonCrystal": {
+      "file": "icons/poe1/LegionCocoonCrystal.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LegionCocoonCrystal.webp"
+    },
+    "poe1:BrinerotStores": {
+      "file": "icons/poe1/BrinerotStores.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BrinerotStores.webp"
+    },
+    "poe1:AbyssChestInactive": {
+      "file": "icons/poe1/AbyssChestInactive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssChestInactive.webp"
+    },
+    "poe1:AbyssChestActive": {
+      "file": "icons/poe1/AbyssChestActive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssChestActive.webp"
+    },
+    "poe1:AbyssPitInactive": {
+      "file": "icons/poe1/AbyssPitInactive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssPitInactive.webp"
+    },
+    "poe1:AbyssPitActive": {
+      "file": "icons/poe1/AbyssPitActive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssPitActive.webp"
+    },
+    "poe1:AbyssCrackInactive": {
+      "file": "icons/poe1/AbyssCrackInactive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssCrackInactive.webp"
+    },
+    "poe1:AbyssCrackActive": {
+      "file": "icons/poe1/AbyssCrackActive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssCrackActive.webp"
+    },
+    "poe1:DeepwaterCoral": {
+      "file": "icons/poe1/DeepwaterCoral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeepwaterCoral.webp"
+    },
+    "poe1:DeepwaterExtract": {
+      "file": "icons/poe1/DeepwaterExtract.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeepwaterExtract.webp"
+    },
+    "poe1:DeepwaterLantern": {
+      "file": "icons/poe1/DeepwaterLantern.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeepwaterLantern.webp"
+    },
+    "poe1:AbyssPillar": {
+      "file": "icons/poe1/AbyssPillar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssPillar.webp"
+    },
+    "poe1:ExpeditionFaridunComander": {
+      "file": "icons/poe1/ExpeditionFaridunComander.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionFaridunComander.webp"
+    },
+    "poe1:FaridunHourglass": {
+      "file": "icons/poe1/FaridunHourglass.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/FaridunHourglass.webp"
+    },
+    "poe1:ChayulaHiveBlockage": {
+      "file": "icons/poe1/ChayulaHiveBlockage.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaHiveBlockage.webp"
+    },
+    "poe1:ChayulaBeanstalk": {
+      "file": "icons/poe1/ChayulaBeanstalk.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaBeanstalk.webp"
+    },
+    "poe1:ChayulaFortSpawnerInactive": {
+      "file": "icons/poe1/ChayulaFortSpawnerInactive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaFortSpawnerInactive.webp"
+    },
+    "poe1:ChayulaFortSpawnerActive": {
+      "file": "icons/poe1/ChayulaFortSpawnerActive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaFortSpawnerActive.webp"
+    },
+    "poe1:ChayulaLocker": {
+      "file": "icons/poe1/ChayulaLocker.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaLocker.webp"
+    },
+    "poe1:ChayulaTree": {
+      "file": "icons/poe1/ChayulaTree.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ChayulaTree.webp"
+    },
+    "poe1:DescensionShrine": {
+      "file": "icons/poe1/DescensionShrine.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DescensionShrine.webp"
+    },
+    "poe1:ExpeditionSpecialRemnant": {
+      "file": "icons/poe1/ExpeditionSpecialRemnant.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionSpecialRemnant.webp"
+    },
+    "poe1:SanctumGoldConvert": {
+      "file": "icons/poe1/SanctumGoldConvert.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumGoldConvert.webp"
+    },
+    "poe1:Recombinator": {
+      "file": "icons/poe1/Recombinator.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Recombinator.webp"
+    },
+    "poe1:MercenaryEncounterSmall": {
+      "file": "icons/poe1/MercenaryEncounterSmall.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MercenaryEncounterSmall.webp"
+    },
+    "poe1:PhrecianMagistrateTombstone": {
+      "file": "icons/poe1/PhrecianMagistrateTombstone.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/PhrecianMagistrateTombstone.webp"
+    },
+    "poe1:MemoryTear": {
+      "file": "icons/poe1/MemoryTear.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MemoryTear.webp"
+    },
+    "poe1:MercenaryEncounter": {
+      "file": "icons/poe1/MercenaryEncounter.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MercenaryEncounter.webp"
+    },
+    "poe1:VillageLostShipment": {
+      "file": "icons/poe1/VillageLostShipment.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageLostShipment.webp"
+    },
+    "poe1:VillageGambling": {
+      "file": "icons/poe1/VillageGambling.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageGambling.webp"
+    },
+    "poe1:VillageMiningInteractable": {
+      "file": "icons/poe1/VillageMiningInteractable.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageMiningInteractable.webp"
+    },
+    "poe1:RacetrackBlueRhoa": {
+      "file": "icons/poe1/RacetrackBlueRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackBlueRhoa.webp"
+    },
+    "poe1:RacetrackGreenRhoa": {
+      "file": "icons/poe1/RacetrackGreenRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackGreenRhoa.webp"
+    },
+    "poe1:RacetrackRedRhoa": {
+      "file": "icons/poe1/RacetrackRedRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackRedRhoa.webp"
+    },
+    "poe1:RacetrackYellowRhoa": {
+      "file": "icons/poe1/RacetrackYellowRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackYellowRhoa.webp"
+    },
+    "poe1:RacetrackPurpleRhoa": {
+      "file": "icons/poe1/RacetrackPurpleRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackPurpleRhoa.webp"
+    },
+    "poe1:RacetrackCyanRhoa": {
+      "file": "icons/poe1/RacetrackCyanRhoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RacetrackCyanRhoa.webp"
+    },
+    "poe1:VillageFarmingPlot": {
+      "file": "icons/poe1/VillageFarmingPlot.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageFarmingPlot.webp"
+    },
+    "poe1:VillageMapDevice": {
+      "file": "icons/poe1/VillageMapDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageMapDevice.webp"
+    },
+    "poe1:VillageRunesmithing": {
+      "file": "icons/poe1/VillageRunesmithing.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageRunesmithing.webp"
+    },
+    "poe1:VillageRecombinating": {
+      "file": "icons/poe1/VillageRecombinating.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageRecombinating.webp"
+    },
+    "poe1:VillageTavern": {
+      "file": "icons/poe1/VillageTavern.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageTavern.webp"
+    },
+    "poe1:VillageMapping": {
+      "file": "icons/poe1/VillageMapping.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageMapping.webp"
+    },
+    "poe1:VillageDisenchanting": {
+      "file": "icons/poe1/VillageDisenchanting.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageDisenchanting.webp"
+    },
+    "poe1:VillageSmelting": {
+      "file": "icons/poe1/VillageSmelting.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageSmelting.webp"
+    },
+    "poe1:VillageFarming": {
+      "file": "icons/poe1/VillageFarming.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageFarming.webp"
+    },
+    "poe1:VillageMining": {
+      "file": "icons/poe1/VillageMining.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VillageMining.webp"
+    },
+    "poe1:OreTypeBismuth": {
+      "file": "icons/poe1/OreTypeBismuth.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OreTypeBismuth.webp"
+    },
+    "poe1:OreTypeCrimsonIron": {
+      "file": "icons/poe1/OreTypeCrimsonIron.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OreTypeCrimsonIron.webp"
+    },
+    "poe1:OreTypeDemonCopper": {
+      "file": "icons/poe1/OreTypeDemonCopper.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OreTypeDemonCopper.webp"
+    },
+    "poe1:OreTypePetrifiedWood": {
+      "file": "icons/poe1/OreTypePetrifiedWood.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OreTypePetrifiedWood.webp"
+    },
+    "poe1:OreTypeVerisium": {
+      "file": "icons/poe1/OreTypeVerisium.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OreTypeVerisium.webp"
+    },
+    "poe1:CorpseTypeBeast": {
+      "file": "icons/poe1/CorpseTypeBeast.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeBeast.webp"
+    },
+    "poe1:CorpseTypeConstruct": {
+      "file": "icons/poe1/CorpseTypeConstruct.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeConstruct.webp"
+    },
+    "poe1:CorpseTypeDemon": {
+      "file": "icons/poe1/CorpseTypeDemon.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeDemon.webp"
+    },
+    "poe1:CorpseTypeEldritch": {
+      "file": "icons/poe1/CorpseTypeEldritch.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeEldritch.webp"
+    },
+    "poe1:CorpseTypeHumanoid": {
+      "file": "icons/poe1/CorpseTypeHumanoid.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeHumanoid.webp"
+    },
+    "poe1:CorpseTypeUndead": {
+      "file": "icons/poe1/CorpseTypeUndead.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CorpseTypeUndead.webp"
+    },
+    "poe1:NecropolisLocker": {
+      "file": "icons/poe1/NecropolisLocker.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/NecropolisLocker.webp"
+    },
+    "poe1:NecropolisCorpse": {
+      "file": "icons/poe1/NecropolisCorpse.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/NecropolisCorpse.webp"
+    },
+    "poe1:ValdoChest": {
+      "file": "icons/poe1/ValdoChest.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ValdoChest.webp"
+    },
+    "poe1:AzmeriWoodsEntrance": {
+      "file": "icons/poe1/AzmeriWoodsEntrance.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AzmeriWoodsEntrance.webp"
+    },
+    "poe1:WardenTrackerRareMonster": {
+      "file": "icons/poe1/WardenTrackerRareMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/WardenTrackerRareMonster.webp"
+    },
+    "poe1:WardenTrackerUniqueMonster": {
+      "file": "icons/poe1/WardenTrackerUniqueMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/WardenTrackerUniqueMonster.webp"
+    },
+    "poe1:AncesltralEnemyTotemAttacked": {
+      "file": "icons/poe1/AncesltralEnemyTotemAttacked.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncesltralEnemyTotemAttacked.webp"
+    },
+    "poe1:AncestralEnemyChieftainTotemAttacked": {
+      "file": "icons/poe1/AncestralEnemyChieftainTotemAttacked.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralEnemyChieftainTotemAttacked.webp"
+    },
+    "poe1:AncesltralAllyTotemAttacked": {
+      "file": "icons/poe1/AncesltralAllyTotemAttacked.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncesltralAllyTotemAttacked.webp"
+    },
+    "poe1:AncestralAllyTotem": {
+      "file": "icons/poe1/AncestralAllyTotem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralAllyTotem.webp"
+    },
+    "poe1:AncestralEnemyTotem": {
+      "file": "icons/poe1/AncestralEnemyTotem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralEnemyTotem.webp"
+    },
+    "poe1:AncestralFieldItem": {
+      "file": "icons/poe1/AncestralFieldItem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralFieldItem.webp"
+    },
+    "poe1:AncestralAllyChieftainTotemAttacked": {
+      "file": "icons/poe1/AncestralAllyChieftainTotemAttacked.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralAllyChieftainTotemAttacked.webp"
+    },
+    "poe1:AncestralAllyChieftainTotem": {
+      "file": "icons/poe1/AncestralAllyChieftainTotem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralAllyChieftainTotem.webp"
+    },
+    "poe1:AncestralEnemyChieftainTotem": {
+      "file": "icons/poe1/AncestralEnemyChieftainTotem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralEnemyChieftainTotem.webp"
+    },
+    "poe1:AncestralArenaEntrance": {
+      "file": "icons/poe1/AncestralArenaEntrance.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralArenaEntrance.webp"
+    },
+    "poe1:AncestralChieftainIkiaho": {
+      "file": "icons/poe1/AncestralChieftainIkiaho.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainIkiaho.webp"
+    },
+    "poe1:AncestralChieftainTawhanuku": {
+      "file": "icons/poe1/AncestralChieftainTawhanuku.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainTawhanuku.webp"
+    },
+    "poe1:AncestralChieftainUtula": {
+      "file": "icons/poe1/AncestralChieftainUtula.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainUtula.webp"
+    },
+    "poe1:AncestralChieftainNavali": {
+      "file": "icons/poe1/AncestralChieftainNavali.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainNavali.webp"
+    },
+    "poe1:AncestralChieftainKaom": {
+      "file": "icons/poe1/AncestralChieftainKaom.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainKaom.webp"
+    },
+    "poe1:AncestralChieftainAhuana": {
+      "file": "icons/poe1/AncestralChieftainAhuana.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainAhuana.webp"
+    },
+    "poe1:AncestralChieftainKahuturoa": {
+      "file": "icons/poe1/AncestralChieftainKahuturoa.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainKahuturoa.webp"
+    },
+    "poe1:AncestralChieftainRakiata": {
+      "file": "icons/poe1/AncestralChieftainRakiata.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainRakiata.webp"
+    },
+    "poe1:AncestralChieftainMaata": {
+      "file": "icons/poe1/AncestralChieftainMaata.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainMaata.webp"
+    },
+    "poe1:AncestralChieftainAkoya": {
+      "file": "icons/poe1/AncestralChieftainAkoya.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainAkoya.webp"
+    },
+    "poe1:AncestralChieftainKiloava": {
+      "file": "icons/poe1/AncestralChieftainKiloava.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AncestralChieftainKiloava.webp"
+    },
+    "poe1:CrucibleForge": {
+      "file": "icons/poe1/CrucibleForge.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CrucibleForge.webp"
+    },
+    "poe1:Crucible": {
+      "file": "icons/poe1/Crucible.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Crucible.webp"
+    },
+    "poe1:SanctumRelicLocker": {
+      "file": "icons/poe1/SanctumRelicLocker.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumRelicLocker.webp"
+    },
+    "poe1:SanctumRelicAltar": {
+      "file": "icons/poe1/SanctumRelicAltar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumRelicAltar.webp"
+    },
+    "poe1:SanctumMap": {
+      "file": "icons/poe1/SanctumMap.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumMap.webp"
+    },
+    "poe1:SanctumRelicCorruptionDevice": {
+      "file": "icons/poe1/SanctumRelicCorruptionDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumRelicCorruptionDevice.webp"
+    },
+    "poe1:SanctumFountain": {
+      "file": "icons/poe1/SanctumFountain.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumFountain.webp"
+    },
+    "poe1:SanctumPact": {
+      "file": "icons/poe1/SanctumPact.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumPact.webp"
+    },
+    "poe1:SanctumDeferral": {
+      "file": "icons/poe1/SanctumDeferral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SanctumDeferral.webp"
+    },
+    "poe1:LakeReflectionDevice": {
+      "file": "icons/poe1/LakeReflectionDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LakeReflectionDevice.webp"
+    },
+    "poe1:LakeStampingDevice": {
+      "file": "icons/poe1/LakeStampingDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LakeStampingDevice.webp"
+    },
+    "poe1:SentinelLocker": {
+      "file": "icons/poe1/SentinelLocker.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SentinelLocker.webp"
+    },
+    "poe1:Sentinel": {
+      "file": "icons/poe1/Sentinel.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Sentinel.webp"
+    },
+    "poe1:BreachBoss": {
+      "file": "icons/poe1/BreachBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BreachBoss.webp"
+    },
+    "poe1:TangleAltar": {
+      "file": "icons/poe1/TangleAltar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/TangleAltar.webp"
+    },
+    "poe1:CleansingFireAltar": {
+      "file": "icons/poe1/CleansingFireAltar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CleansingFireAltar.webp"
+    },
+    "poe1:RoyaleBrutusDormant": {
+      "file": "icons/poe1/RoyaleBrutusDormant.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RoyaleBrutusDormant.webp"
+    },
+    "poe1:RoyaleBrutusActive": {
+      "file": "icons/poe1/RoyaleBrutusActive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RoyaleBrutusActive.webp"
+    },
+    "poe1:HellscapeFleshBoss": {
+      "file": "icons/poe1/HellscapeFleshBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HellscapeFleshBoss.webp"
+    },
+    "poe1:HellscapeDemonBoss": {
+      "file": "icons/poe1/HellscapeDemonBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HellscapeDemonBoss.webp"
+    },
+    "poe1:HellscapePaleBoss": {
+      "file": "icons/poe1/HellscapePaleBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HellscapePaleBoss.webp"
+    },
+    "poe1:ExpeditionCavernEntrance": {
+      "file": "icons/poe1/ExpeditionCavernEntrance.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionCavernEntrance.webp"
+    },
+    "poe1:ExpeditionEliteMonster": {
+      "file": "icons/poe1/ExpeditionEliteMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionEliteMonster.webp"
+    },
+    "poe1:ExpeditionLeagueSpecificMonster": {
+      "file": "icons/poe1/ExpeditionLeagueSpecificMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionLeagueSpecificMonster.webp"
+    },
+    "poe1:ExpeditionRegularMonster": {
+      "file": "icons/poe1/ExpeditionRegularMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionRegularMonster.webp"
+    },
+    "poe1:ExpeditionBoss": {
+      "file": "icons/poe1/ExpeditionBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionBoss.webp"
+    },
+    "poe1:ExpeditionChest3": {
+      "file": "icons/poe1/ExpeditionChest3.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionChest3.webp"
+    },
+    "poe1:ExpeditionChest2": {
+      "file": "icons/poe1/ExpeditionChest2.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionChest2.webp"
+    },
+    "poe1:ExpeditionChest1": {
+      "file": "icons/poe1/ExpeditionChest1.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionChest1.webp"
+    },
+    "poe1:ExpeditionDynamite": {
+      "file": "icons/poe1/ExpeditionDynamite.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionDynamite.webp"
+    },
+    "poe1:ExpeditionStash": {
+      "file": "icons/poe1/ExpeditionStash.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ExpeditionStash.webp"
+    },
+    "poe1:FlaskFountainEmpty": {
+      "file": "icons/poe1/FlaskFountainEmpty.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/FlaskFountainEmpty.webp"
+    },
+    "poe1:FlaskFountainFull": {
+      "file": "icons/poe1/FlaskFountainFull.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/FlaskFountainFull.webp"
+    },
+    "poe1:UltimatumCaptureRune": {
+      "file": "icons/poe1/UltimatumCaptureRune.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/UltimatumCaptureRune.webp"
+    },
+    "poe1:RitualRuneFinished": {
+      "file": "icons/poe1/RitualRuneFinished.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RitualRuneFinished.webp"
+    },
+    "poe1:HeistStockpile": {
+      "file": "icons/poe1/HeistStockpile.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistStockpile.webp"
+    },
+    "poe1:RewardChestRitual": {
+      "file": "icons/poe1/RewardChestRitual.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestRitual.webp"
+    },
+    "poe1:RewardChestHeist": {
+      "file": "icons/poe1/RewardChestHeist.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestHeist.webp"
+    },
+    "poe1:RewardChestExpedition": {
+      "file": "icons/poe1/RewardChestExpedition.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestExpedition.webp"
+    },
+    "poe1:RewardChestBlight": {
+      "file": "icons/poe1/RewardChestBlight.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestBlight.webp"
+    },
+    "poe1:RewardChestMetamorph": {
+      "file": "icons/poe1/RewardChestMetamorph.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestMetamorph.webp"
+    },
+    "poe1:RewardChestDelirium": {
+      "file": "icons/poe1/RewardChestDelirium.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestDelirium.webp"
+    },
+    "poe1:RewardChestLegion": {
+      "file": "icons/poe1/RewardChestLegion.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestLegion.webp"
+    },
+    "poe1:RewardChestLabyrinth": {
+      "file": "icons/poe1/RewardChestLabyrinth.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestLabyrinth.webp"
+    },
+    "poe1:RewardChestTalisman": {
+      "file": "icons/poe1/RewardChestTalisman.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestTalisman.webp"
+    },
+    "poe1:RewardChestDivination": {
+      "file": "icons/poe1/RewardChestDivination.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestDivination.webp"
+    },
+    "poe1:RewardChestProphecy": {
+      "file": "icons/poe1/RewardChestProphecy.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestProphecy.webp"
+    },
+    "poe1:RewardChestFossil": {
+      "file": "icons/poe1/RewardChestFossil.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestFossil.webp"
+    },
+    "poe1:RewardChestFragment": {
+      "file": "icons/poe1/RewardChestFragment.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestFragment.webp"
+    },
+    "poe1:RewardChestEssence": {
+      "file": "icons/poe1/RewardChestEssence.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestEssence.webp"
+    },
+    "poe1:RewardChestBreach": {
+      "file": "icons/poe1/RewardChestBreach.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestBreach.webp"
+    },
+    "poe1:RewardChestHarbinger": {
+      "file": "icons/poe1/RewardChestHarbinger.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestHarbinger.webp"
+    },
+    "poe1:RewardChestPerandus": {
+      "file": "icons/poe1/RewardChestPerandus.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestPerandus.webp"
+    },
+    "poe1:RewardChestAbyss": {
+      "file": "icons/poe1/RewardChestAbyss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestAbyss.webp"
+    },
+    "poe1:RewardChestWeapons": {
+      "file": "icons/poe1/RewardChestWeapons.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestWeapons.webp"
+    },
+    "poe1:RewardChestArmour": {
+      "file": "icons/poe1/RewardChestArmour.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestArmour.webp"
+    },
+    "poe1:RewardChestTrinkets": {
+      "file": "icons/poe1/RewardChestTrinkets.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestTrinkets.webp"
+    },
+    "poe1:RewardChestMaps": {
+      "file": "icons/poe1/RewardChestMaps.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestMaps.webp"
+    },
+    "poe1:RewardChestGems": {
+      "file": "icons/poe1/RewardChestGems.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestGems.webp"
+    },
+    "poe1:RewardChestUnique": {
+      "file": "icons/poe1/RewardChestUnique.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestUnique.webp"
+    },
+    "poe1:RewardChestCurrency": {
+      "file": "icons/poe1/RewardChestCurrency.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestCurrency.webp"
+    },
+    "poe1:RewardChestGeneric": {
+      "file": "icons/poe1/RewardChestGeneric.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardChestGeneric.webp"
+    },
+    "poe1:HeistPathChest": {
+      "file": "icons/poe1/HeistPathChest.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistPathChest.webp"
+    },
+    "poe1:HeistEscapeRoute": {
+      "file": "icons/poe1/HeistEscapeRoute.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistEscapeRoute.webp"
+    },
+    "poe1:HeistDisplayCase": {
+      "file": "icons/poe1/HeistDisplayCase.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistDisplayCase.webp"
+    },
+    "poe1:HeistSpottedMiniBoss": {
+      "file": "icons/poe1/HeistSpottedMiniBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistSpottedMiniBoss.webp"
+    },
+    "poe1:HeistSpottedPatrol": {
+      "file": "icons/poe1/HeistSpottedPatrol.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistSpottedPatrol.webp"
+    },
+    "poe1:HeistVaultBreaking": {
+      "file": "icons/poe1/HeistVaultBreaking.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistVaultBreaking.webp"
+    },
+    "poe1:HeistTrapDisarmament": {
+      "file": "icons/poe1/HeistTrapDisarmament.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistTrapDisarmament.webp"
+    },
+    "poe1:HeistPerception": {
+      "file": "icons/poe1/HeistPerception.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistPerception.webp"
+    },
+    "poe1:HeistLockpicking": {
+      "file": "icons/poe1/HeistLockpicking.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistLockpicking.webp"
+    },
+    "poe1:HeistEngineering": {
+      "file": "icons/poe1/HeistEngineering.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistEngineering.webp"
+    },
+    "poe1:HeistDemolition": {
+      "file": "icons/poe1/HeistDemolition.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistDemolition.webp"
+    },
+    "poe1:HeistDeception": {
+      "file": "icons/poe1/HeistDeception.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistDeception.webp"
+    },
+    "poe1:HeistCounterThaumaturge": {
+      "file": "icons/poe1/HeistCounterThaumaturge.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistCounterThaumaturge.webp"
+    },
+    "poe1:HeistBruteforce": {
+      "file": "icons/poe1/HeistBruteforce.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistBruteforce.webp"
+    },
+    "poe1:HeistAgility": {
+      "file": "icons/poe1/HeistAgility.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HeistAgility.webp"
+    },
+    "poe1:HarvestPlantBoosterWhite": {
+      "file": "icons/poe1/HarvestPlantBoosterWhite.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestPlantBoosterWhite.webp"
+    },
+    "poe1:HarvestPlantBoosterGreen": {
+      "file": "icons/poe1/HarvestPlantBoosterGreen.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestPlantBoosterGreen.webp"
+    },
+    "poe1:HarvestPlantBoosterRed": {
+      "file": "icons/poe1/HarvestPlantBoosterRed.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestPlantBoosterRed.webp"
+    },
+    "poe1:HarvestPlantBoosterBlue": {
+      "file": "icons/poe1/HarvestPlantBoosterBlue.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestPlantBoosterBlue.webp"
+    },
+    "poe1:HarvestHorticraftingStation": {
+      "file": "icons/poe1/HarvestHorticraftingStation.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestHorticraftingStation.webp"
+    },
+    "poe1:HarvestDisperserYellow": {
+      "file": "icons/poe1/HarvestDisperserYellow.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestDisperserYellow.webp"
+    },
+    "poe1:HarvestDisperserBlue": {
+      "file": "icons/poe1/HarvestDisperserBlue.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestDisperserBlue.webp"
+    },
+    "poe1:HarvestDisperserPurple": {
+      "file": "icons/poe1/HarvestDisperserPurple.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestDisperserPurple.webp"
+    },
+    "poe1:HarvestDisperserNeutral": {
+      "file": "icons/poe1/HarvestDisperserNeutral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestDisperserNeutral.webp"
+    },
+    "poe1:HarvestStanchionYellow": {
+      "file": "icons/poe1/HarvestStanchionYellow.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestStanchionYellow.webp"
+    },
+    "poe1:HarvestStanchionBlue": {
+      "file": "icons/poe1/HarvestStanchionBlue.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestStanchionBlue.webp"
+    },
+    "poe1:HarvestStanchionPurple": {
+      "file": "icons/poe1/HarvestStanchionPurple.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestStanchionPurple.webp"
+    },
+    "poe1:HarvestStanchionNeutral": {
+      "file": "icons/poe1/HarvestStanchionNeutral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestStanchionNeutral.webp"
+    },
+    "poe1:HarvestCondenserYellow": {
+      "file": "icons/poe1/HarvestCondenserYellow.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCondenserYellow.webp"
+    },
+    "poe1:HarvestCondenserBlue": {
+      "file": "icons/poe1/HarvestCondenserBlue.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCondenserBlue.webp"
+    },
+    "poe1:HarvestCondenserPurple": {
+      "file": "icons/poe1/HarvestCondenserPurple.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCondenserPurple.webp"
+    },
+    "poe1:HarvestCondenserNeutral": {
+      "file": "icons/poe1/HarvestCondenserNeutral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCondenserNeutral.webp"
+    },
+    "poe1:HarvestCollectorYellow": {
+      "file": "icons/poe1/HarvestCollectorYellow.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCollectorYellow.webp"
+    },
+    "poe1:HarvestCollectorBlue": {
+      "file": "icons/poe1/HarvestCollectorBlue.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCollectorBlue.webp"
+    },
+    "poe1:HarvestCollectorPurple": {
+      "file": "icons/poe1/HarvestCollectorPurple.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCollectorPurple.webp"
+    },
+    "poe1:HarvestCollectorNeutral": {
+      "file": "icons/poe1/HarvestCollectorNeutral.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestCollectorNeutral.webp"
+    },
+    "poe1:HarvestOshabiBoss": {
+      "file": "icons/poe1/HarvestOshabiBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestOshabiBoss.webp"
+    },
+    "poe1:HarvestSeedCache": {
+      "file": "icons/poe1/HarvestSeedCache.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HarvestSeedCache.webp"
+    },
+    "poe1:DeliriumBossFinal": {
+      "file": "icons/poe1/DeliriumBossFinal.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeliriumBossFinal.webp"
+    },
+    "poe1:DeliriumBoss1": {
+      "file": "icons/poe1/DeliriumBoss1.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DeliriumBoss1.webp"
+    },
+    "poe1:WatchstoneAltar": {
+      "file": "icons/poe1/WatchstoneAltar.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/WatchstoneAltar.webp"
+    },
+    "poe1:MetamorphosisFormedBoss": {
+      "file": "icons/poe1/MetamorphosisFormedBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MetamorphosisFormedBoss.webp"
+    },
+    "poe1:MetamorphosisBoss": {
+      "file": "icons/poe1/MetamorphosisBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MetamorphosisBoss.webp"
+    },
+    "poe1:MetamorphosisMonster": {
+      "file": "icons/poe1/MetamorphosisMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MetamorphosisMonster.webp"
+    },
+    "poe1:BlightPortalPhysical": {
+      "file": "icons/poe1/BlightPortalPhysical.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPortalPhysical.webp"
+    },
+    "poe1:BlightPortalMinion": {
+      "file": "icons/poe1/BlightPortalMinion.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPortalMinion.webp"
+    },
+    "poe1:BlightPortalLightning": {
+      "file": "icons/poe1/BlightPortalLightning.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPortalLightning.webp"
+    },
+    "poe1:BlightPortalCold": {
+      "file": "icons/poe1/BlightPortalCold.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPortalCold.webp"
+    },
+    "poe1:BlightPortalFire": {
+      "file": "icons/poe1/BlightPortalFire.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPortalFire.webp"
+    },
+    "poe1:BlightBoss": {
+      "file": "icons/poe1/BlightBoss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightBoss.webp"
+    },
+    "poe1:BlightPathInactive": {
+      "file": "icons/poe1/BlightPathInactive.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPathInactive.webp"
+    },
+    "poe1:BlightPath": {
+      "file": "icons/poe1/BlightPath.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightPath.webp"
+    },
+    "poe1:RewardBlight": {
+      "file": "icons/poe1/RewardBlight.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardBlight.webp"
+    },
+    "poe1:BlightSpawner": {
+      "file": "icons/poe1/BlightSpawner.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightSpawner.webp"
+    },
+    "poe1:BlightMonster": {
+      "file": "icons/poe1/BlightMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlightMonster.webp"
+    },
+    "poe1:RewardWeaponEnchants": {
+      "file": "icons/poe1/RewardWeaponEnchants.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardWeaponEnchants.webp"
+    },
+    "poe1:RewardWeapons": {
+      "file": "icons/poe1/RewardWeapons.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardWeapons.webp"
+    },
+    "poe1:RewardUniques": {
+      "file": "icons/poe1/RewardUniques.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardUniques.webp"
+    },
+    "poe1:RewardJewellery": {
+      "file": "icons/poe1/RewardJewellery.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardJewellery.webp"
+    },
+    "poe1:RewardTalisman": {
+      "file": "icons/poe1/RewardTalisman.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardTalisman.webp"
+    },
+    "poe1:RewardScarabs": {
+      "file": "icons/poe1/RewardScarabs.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardScarabs.webp"
+    },
+    "poe1:RewardProphecy": {
+      "file": "icons/poe1/RewardProphecy.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardProphecy.webp"
+    },
+    "poe1:RewardPerandus": {
+      "file": "icons/poe1/RewardPerandus.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardPerandus.webp"
+    },
+    "poe1:RewardMaps": {
+      "file": "icons/poe1/RewardMaps.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardMaps.webp"
+    },
+    "poe1:RewardLabyrinth": {
+      "file": "icons/poe1/RewardLabyrinth.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardLabyrinth.webp"
+    },
+    "poe1:RewardHarbinger": {
+      "file": "icons/poe1/RewardHarbinger.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardHarbinger.webp"
+    },
+    "poe1:RewardGenericItems": {
+      "file": "icons/poe1/RewardGenericItems.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardGenericItems.webp"
+    },
+    "poe1:RewardGems": {
+      "file": "icons/poe1/RewardGems.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardGems.webp"
+    },
+    "poe1:RewardFragments": {
+      "file": "icons/poe1/RewardFragments.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardFragments.webp"
+    },
+    "poe1:RewardFossils": {
+      "file": "icons/poe1/RewardFossils.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardFossils.webp"
+    },
+    "poe1:RewardEssences": {
+      "file": "icons/poe1/RewardEssences.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardEssences.webp"
+    },
+    "poe1:RewardDivinationCards": {
+      "file": "icons/poe1/RewardDivinationCards.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardDivinationCards.webp"
+    },
+    "poe1:RewardCurrency": {
+      "file": "icons/poe1/RewardCurrency.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardCurrency.webp"
+    },
+    "poe1:RewardBreach": {
+      "file": "icons/poe1/RewardBreach.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardBreach.webp"
+    },
+    "poe1:RewardBestiary": {
+      "file": "icons/poe1/RewardBestiary.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardBestiary.webp"
+    },
+    "poe1:RewardArmour": {
+      "file": "icons/poe1/RewardArmour.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardArmour.webp"
+    },
+    "poe1:RewardAbyss": {
+      "file": "icons/poe1/RewardAbyss.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RewardAbyss.webp"
+    },
+    "poe1:LegionGeneric": {
+      "file": "icons/poe1/LegionGeneric.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LegionGeneric.webp"
+    },
+    "poe1:BetrayalSymbolCart": {
+      "file": "icons/poe1/BetrayalSymbolCart.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BetrayalSymbolCart.webp"
+    },
+    "poe1:StashGuild": {
+      "file": "icons/poe1/StashGuild.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/StashGuild.webp"
+    },
+    "poe1:StashPlayer": {
+      "file": "icons/poe1/StashPlayer.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/StashPlayer.webp"
+    },
+    "poe1:SynthesisMemoryMap": {
+      "file": "icons/poe1/SynthesisMemoryMap.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SynthesisMemoryMap.webp"
+    },
+    "poe1:SynthesisCraftingDevice": {
+      "file": "icons/poe1/SynthesisCraftingDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SynthesisCraftingDevice.webp"
+    },
+    "poe1:SynthesisFragmentEntrance": {
+      "file": "icons/poe1/SynthesisFragmentEntrance.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SynthesisFragmentEntrance.webp"
+    },
+    "poe1:SynthesisBridgeEnd": {
+      "file": "icons/poe1/SynthesisBridgeEnd.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/SynthesisBridgeEnd.webp"
+    },
+    "poe1:MapDevice": {
+      "file": "icons/poe1/MapDevice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MapDevice.webp"
+    },
+    "poe1:CraftingBench": {
+      "file": "icons/poe1/CraftingBench.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CraftingBench.webp"
+    },
+    "poe1:CraftingUnlockObject": {
+      "file": "icons/poe1/CraftingUnlockObject.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/CraftingUnlockObject.webp"
+    },
+    "poe1:BetrayalSymbolDjinn": {
+      "file": "icons/poe1/BetrayalSymbolDjinn.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BetrayalSymbolDjinn.webp"
+    },
+    "poe1:HideoutSymbol": {
+      "file": "icons/poe1/HideoutSymbol.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/HideoutSymbol.webp"
+    },
+    "poe1:YellowWaypoint": {
+      "file": "icons/poe1/YellowWaypoint.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/YellowWaypoint.webp"
+    },
+    "poe1:DelveWaypoint": {
+      "file": "icons/poe1/DelveWaypoint.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DelveWaypoint.webp"
+    },
+    "poe1:DynamiteWall": {
+      "file": "icons/poe1/DynamiteWall.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DynamiteWall.webp"
+    },
+    "poe1:DelveRobot": {
+      "file": "icons/poe1/DelveRobot.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DelveRobot.webp"
+    },
+    "poe1:DelveMapViewer": {
+      "file": "icons/poe1/DelveMapViewer.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/DelveMapViewer.webp"
+    },
+    "poe1:IncursionCraftingBenchGem": {
+      "file": "icons/poe1/IncursionCraftingBenchGem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionCraftingBenchGem.webp"
+    },
+    "poe1:IncursionCraftingBenchSacrifice": {
+      "file": "icons/poe1/IncursionCraftingBenchSacrifice.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionCraftingBenchSacrifice.webp"
+    },
+    "poe1:IncursionDoorOpen": {
+      "file": "icons/poe1/IncursionDoorOpen.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionDoorOpen.webp"
+    },
+    "poe1:IncursionDoorLocked": {
+      "file": "icons/poe1/IncursionDoorLocked.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionDoorLocked.webp"
+    },
+    "poe1:IncursionArchitectReplace": {
+      "file": "icons/poe1/IncursionArchitectReplace.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionArchitectReplace.webp"
+    },
+    "poe1:IncursionArchitectUpgrade": {
+      "file": "icons/poe1/IncursionArchitectUpgrade.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/IncursionArchitectUpgrade.webp"
+    },
+    "poe1:BestiaryDeadMonster": {
+      "file": "icons/poe1/BestiaryDeadMonster.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BestiaryDeadMonster.webp"
+    },
+    "poe1:BestiaryLegendaryBeast": {
+      "file": "icons/poe1/BestiaryLegendaryBeast.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BestiaryLegendaryBeast.webp"
+    },
+    "poe1:BestiaryBloodAlter": {
+      "file": "icons/poe1/BestiaryBloodAlter.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BestiaryBloodAlter.webp"
+    },
+    "poe1:PCMapArrow": {
+      "file": "icons/poe1/PCMapArrow.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/PCMapArrow.webp"
+    },
+    "poe1:ConsoleMapArrowR": {
+      "file": "icons/poe1/ConsoleMapArrowR.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ConsoleMapArrowR.webp"
+    },
+    "poe1:ConsoleMapArrowL": {
+      "file": "icons/poe1/ConsoleMapArrowL.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/ConsoleMapArrowL.webp"
+    },
+    "poe1:EntrancePortal": {
+      "file": "icons/poe1/EntrancePortal.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/EntrancePortal.webp"
+    },
+    "poe1:LabyrinthSilverKey": {
+      "file": "icons/poe1/LabyrinthSilverKey.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LabyrinthSilverKey.webp"
+    },
+    "poe1:LabyrinthGoldKey": {
+      "file": "icons/poe1/LabyrinthGoldKey.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LabyrinthGoldKey.webp"
+    },
+    "poe1:LabyrinthEnchant": {
+      "file": "icons/poe1/LabyrinthEnchant.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LabyrinthEnchant.webp"
+    },
+    "poe1:VaalSideArea": {
+      "file": "icons/poe1/VaalSideArea.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/VaalSideArea.webp"
+    },
+    "poe1:LabyrinthDoor": {
+      "file": "icons/poe1/LabyrinthDoor.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LabyrinthDoor.webp"
+    },
+    "poe1:LabyrinthLever": {
+      "file": "icons/poe1/LabyrinthLever.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/LabyrinthLever.webp"
+    },
+    "poe1:StoneCircle": {
+      "file": "icons/poe1/StoneCircle.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/StoneCircle.webp"
+    },
+    "poe1:Labyrinth": {
+      "file": "icons/poe1/Labyrinth.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Labyrinth.webp"
+    },
+    "poe1:Entrance": {
+      "file": "icons/poe1/Entrance.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Entrance.webp"
+    },
+    "poe1:PartyLeader": {
+      "file": "icons/poe1/PartyLeader.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/PartyLeader.webp"
+    },
+    "poe1:MissionAlly": {
+      "file": "icons/poe1/MissionAlly.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MissionAlly.webp"
+    },
+    "poe1:MissionTarget": {
+      "file": "icons/poe1/MissionTarget.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MissionTarget.webp"
+    },
+    "poe1:AbyssCrack": {
+      "file": "icons/poe1/AbyssCrack.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/AbyssCrack.webp"
+    },
+    "poe1:GreenFlag": {
+      "file": "icons/poe1/GreenFlag.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/GreenFlag.webp"
+    },
+    "poe1:BlueFlag": {
+      "file": "icons/poe1/BlueFlag.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/BlueFlag.webp"
+    },
+    "poe1:RedFlag": {
+      "file": "icons/poe1/RedFlag.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/RedFlag.webp"
+    },
+    "poe1:Waypoint": {
+      "file": "icons/poe1/Waypoint.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Waypoint.webp"
+    },
+    "poe1:StoryGlyph": {
+      "file": "icons/poe1/StoryGlyph.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/StoryGlyph.webp"
+    },
+    "poe1:QuestItem": {
+      "file": "icons/poe1/QuestItem.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/QuestItem.webp"
+    },
+    "poe1:QuestObject": {
+      "file": "icons/poe1/QuestObject.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/QuestObject.webp"
+    },
+    "poe1:Portal": {
+      "file": "icons/poe1/Portal.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/Portal.webp"
+    },
+    "poe1:NPC": {
+      "file": "icons/poe1/NPC.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/NPC.webp"
+    },
+    "poe1:OtherPlayer": {
+      "file": "icons/poe1/OtherPlayer.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/OtherPlayer.webp"
+    },
+    "poe1:PartyMember": {
+      "file": "icons/poe1/PartyMember.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/PartyMember.webp"
+    },
+    "poe1:MyPlayer": {
+      "file": "icons/poe1/MyPlayer.webp",
+      "url": "https://cdn.poedb.tw/image/Art/2DArt/minimap/player/MyPlayer.webp"
+    },
+    "poe2:RareMonsterAlive": {
+      "file": "icons/poe2/RareMonsterAlive.webp",
+      "url": "https://cdn.poe2db.tw/image/Art/2DArt/minimap/player/RareMonsterAlive.webp"
+    },
+    "poe2:UniqueMonsterAlive": {
+      "file": "icons/poe2/UniqueMonsterAlive.webp",
+      "url": "https://cdn.poe2db.tw/image/Art/2DArt/minimap/player/UniqueMonsterAlive.webp"
+    }
+  }
+}

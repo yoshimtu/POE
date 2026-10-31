@@ -1,0 +1,31 @@
+Item Class: Rings
+Rarity: Rare
+Onslaught Finger
+Bone Ring
+--------
+Quality (Attack Modifiers): +9% (augmented)
+Intangibility: 8%
+--------
+Requirements:
+Level: 67
+--------
+Item Level: 84
+--------
+Your Chilling Towers freeze enemies for 0.2 seconds while they are affected by chilling beams (enchant)
+(Chill reduces Enemy Action Speed by 10%) (enchant)
+--------
+{ Implicit Modifier — Elemental, Resistance, Minion }
+Minions have +10(10-15)% to all Elemental Resistances
+--------
+{ Prefix Modifier "Duchess's" (Tier: 1) — Damage, Minion }
+Minions deal 42(37-42)% increased Damage
+{ Prefix Modifier "Perandus'" (Tier: 1) — Drop }
+27(25-28)% increased Rarity of Items found
+{ Prefix Modifier "Blazing" (Tier: 4) — Defences, Energy Shield }
++31(27-31) to maximum Energy Shield
+{ Suffix Modifier "of Agitation" (Tier: 1) — Attack, Caster, Speed, Minion — 9% Increased }
+Minions have 15(14-16)% increased Attack and Cast Speed
+{ Suffix Modifier "of Harmony" (Tier: 1) — Speed, Minion }
+Minions have 29(26-30)% increased Movement Speed
+{ Master Crafted Suffix Modifier "of Craft" — Elemental, Fire, Chaos, Resistance }
++15(13-15)% to Fire and Chaos Resistances

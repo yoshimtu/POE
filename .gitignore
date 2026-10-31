@@ -1,0 +1,86 @@
+# Python / uv environments and generated caches
+/.venv/
+/.venv-runtime/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+/coverage.xml
+*.egg-info/
+
+# PyInstaller output (Build.ps1 generates these root spec files)
+/build/
+/dist/
+/releases/
+/Waymark.spec
+/ObsidianExile.spec
+
+# Rebuildable native route engine; keep native/route_search.c
+/native/route_search.dll
+/native/route_search.lib
+/native/route_search.exp
+/native/route_search.obj
+/native/route_search.o
+/native/route_search.pdb
+
+# Local research, release archives, smoke reports, and rendered previews
+/.reference/
+/exports/Waymark.zip
+/package-check*.json
+/package-live-reader.json
+/preview.png
+/preview-*.png
+
+# Runtime data if copied into the project (normally stored in LOCALAPPDATA)
+/data/
+/economy-cache/
+/settings.json
+/assessment-feedback.json
+/internet-host.json
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.sqlite3-wal
+*.sqlite3-shm
+*.sqlite3-journal
+*.log
+
+# Local environment variables and private credentials; keep example templates
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+/secrets/
+/credentials.json
+/service-account*.json
+/serviceAccount*.json
+*.key
+*.p12
+*.pfx
+
+# Editor-local state (keep shareable editor configuration)
+/.vs/
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/shelf/
+/.vscode/*.local.json
+*.suo
+*.user
+*.swp
+*.swo
+*~
+
+# Temporary files and operating-system metadata
+*.tmp
+*.temp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

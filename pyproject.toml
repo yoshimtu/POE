@@ -1,0 +1,18 @@
+[project]
+name = "waymark"
+version = "0.1.0"
+description = "Modular Path of Exile desktop companion"
+requires-python = ">=3.12"
+dependencies = ["PySide6-Essentials>=6.8,<7", "numpy>=2.2,<3", "opencv-python-headless>=4.10,<5", "windows-capture==2.0.1; sys_platform == 'win32'"]
+
+[tool.uv]
+# windows-capture uses cv2; the headless wheel above supplies that module
+# without installing a second GUI toolkit alongside PySide6.
+override-dependencies = ["opencv-python; sys_platform == 'never'"]
+
+[dependency-groups]
+dev = ["pytest>=8", "pyinstaller>=6"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

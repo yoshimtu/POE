@@ -1,0 +1,14 @@
+# Playtest encounter, route discovery and timing fixes
+
+- Expedition classification admits only the main detonator, suppressing chest/remnant/rune clutter before fallback object classification. Breach hand/portal/object recognition accepts interactive terrain objects as well as earlier metadata paths. Actual Breach coverage still needs a live encounter check.
+- Crafting recipes use the requested fallback: live campaign area IDs (1_/2_) only, and unavailable recipes are excluded. Account-wide unlock state is not decoded.
+- Eldritch altars with a false targetable state are hidden. Live Eater altar at Strand changed available=true/used=false to available=false/used=true after the user selected an option; user confirmed its marker disappeared.
+- Item value enrichment is reused while underlying item lists/price dictionaries/area remain the same. The hidden stash table no longer rebuilds every second. A failed background read preserves an existing still-fresh frame without renewing timestamps; explicit loading/logout clears immediately. Stale data still expires at the original 300ms limit. No unbounded holding or cross-zone persistence added.
+- Timing logs every 10 seconds report UI tick median/p95/max, snapshot age and entity count. Strand warm full reads sampled at 32–44ms (21 entities); a cold sample took 1059ms. Heavy-combat timing remains for user testing. Found and stopped an obsolete owned app plus its worker that survived a prior close.
+- Destination approach lookup now accepts all valid clearance values 1–5, consistent with the actual pathfinder. Existing 4/5-only lookup could reject narrow walkable approaches across maps.
+- Strand Arena transition live capture at grid (466,2502) matched beachtownnorth terrain. Added its explicit rule. Reader found Arena anchor (452,2491), native route search ready in 31.1ms, 46 cells, one visible projected segment. This enables zone-load discovery without approaching the entrance first.
+- General map fallback discovers dedicated /Transitions/ terrain features, excluding already-resolved named destinations and labeling unknown ones approximate. No arbitrary boss coordinates or unsupported per-map guesses. Catalog checked against current upstream exApiTools/Radar targets.json; it also lacks a Strand rule.
+
+Tests: full suite completed all 201 assertions but Windows Qt teardown intermittently exited abnormally; a previous 200-test run exited cleanly. Focused destination/radar/map-stability suite: 66 passed, exit 0. Native teardown issue is distinct from assertion failures and remains a test-harness limitation. Packaged checks and live playtest results to be appended.
+Final full-suite rerun: 201 passed in 2.91s, process exit 0.
+Release 20261029-165358 packaged checks passed (seven modules, no errors); prior owned app closed/remaining process stopped and updated app launched.

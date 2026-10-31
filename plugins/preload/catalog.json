@@ -1,0 +1,724 @@
+{
+  "schema": 1,
+  "sources": [
+    "https://github.com/TehCheat/PreloadAlert/blob/master/PreloadAlert.cs",
+    "https://github.com/TehCheat/PoEHelper/blob/master/config/preload_alerts.txt",
+    "Read-only current-generation Cells resource sample, 2026-10-28"
+  ],
+  "rules": [
+    {
+      "id": "breach",
+      "label": "Breach",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Chests/Breach/BreachChest",
+        "Metadata/Terrain/Leagues/Breach/BreachObject",
+        "Metadata/MiscellaneousObjects/Breach/"
+      ],
+      "priority": 5,
+      "color": "#8db6d3",
+      "default": true,
+      "setting": "breach"
+    },
+    {
+      "id": "abyss",
+      "label": "Abyss",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/MiscellaneousObjects/Abyss/",
+        "Metadata/Chests/Abyss/AbyssFinalChest",
+        "Metadata/Chests/LeagueAbyss/"
+      ],
+      "priority": 5,
+      "color": "#9bbd72",
+      "default": true,
+      "setting": "abyss"
+    },
+    {
+      "id": "legion",
+      "label": "Legion",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Terrain/Leagues/Legion/Objects/LegionInitiator",
+        "Metadata/Monsters/LegionLeague/"
+      ],
+      "priority": 5,
+      "color": "#b398da",
+      "default": true,
+      "setting": "legion"
+    },
+    {
+      "id": "blight",
+      "label": "Blight / Sister Cassia",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/Masters/BlightBuilderWild",
+        "Metadata/Terrain/Leagues/Blight/Objects/BlightInitiator"
+      ],
+      "priority": 5,
+      "color": "#d0bc7c",
+      "default": true,
+      "setting": "blight"
+    },
+    {
+      "id": "delirium",
+      "label": "Delirium mirror",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator"
+      ],
+      "priority": 5,
+      "color": "#c0c6d2",
+      "default": true,
+      "setting": "delirium"
+    },
+    {
+      "id": "harvest",
+      "label": "Harvest / Sacred Grove",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest",
+        "Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm"
+      ],
+      "priority": 5,
+      "color": "#8ab986",
+      "default": true,
+      "setting": "harvest"
+    },
+    {
+      "id": "expedition",
+      "label": "Expedition",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/LeagueExpedition/NPC/Expedition",
+        "Metadata/Terrain/Leagues/Expedition/Objects/Expedition"
+      ],
+      "priority": 5,
+      "color": "#d1b47c",
+      "default": true,
+      "setting": "expedition"
+    },
+    {
+      "id": "ritual",
+      "label": "Ritual",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Terrain/Leagues/Ritual/RitualRuneLight"
+      ],
+      "priority": 5,
+      "color": "#d59eab",
+      "default": true,
+      "setting": "ritual"
+    },
+    {
+      "id": "essence",
+      "label": "Essence monolith",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/MiscellaneousObjects/Monolith",
+        "Metadata/Monsters/Daemon/EssenceDaemon"
+      ],
+      "priority": 5,
+      "color": "#c6ace1",
+      "default": true,
+      "setting": "essence"
+    },
+    {
+      "id": "heist",
+      "label": "Smuggler\u2019s Cache",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache"
+      ],
+      "priority": 5,
+      "color": "#83c8c2",
+      "default": true,
+      "setting": "heist"
+    },
+    {
+      "id": "harbinger",
+      "label": "Harbinger",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/Avatar/Avatar"
+      ],
+      "priority": 5,
+      "color": "#78ace8",
+      "default": true,
+      "setting": "harbinger"
+    },
+    {
+      "id": "bestiary",
+      "label": "Einhar / Bestiary",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/Masters/Einhar"
+      ],
+      "priority": 5,
+      "color": "#c0a17c",
+      "default": true,
+      "setting": "bestiary"
+    },
+    {
+      "id": "incursion",
+      "label": "Alva / Incursion",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/NPC/League/Incursion/TreasureHunterWild"
+      ],
+      "priority": 5,
+      "color": "#bba482",
+      "default": true,
+      "setting": "incursion"
+    },
+    {
+      "id": "sulphite",
+      "label": "Niko / Sulphite",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/NPC/League/Delve/DelveMinerWildVein",
+        "Metadata/NPC/League/Delve/DelveMinerWildChest",
+        "Metadata/Terrain/Leagues/Delve/Objects/DelveMineral"
+      ],
+      "priority": 5,
+      "color": "#d1bb78",
+      "default": true,
+      "setting": "sulphite"
+    },
+    {
+      "id": "betrayal",
+      "label": "Betrayal / Syndicate",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/LeagueBetrayal/"
+      ],
+      "priority": 5,
+      "color": "#90b4a7",
+      "default": true,
+      "setting": "betrayal"
+    },
+    {
+      "id": "beyond",
+      "label": "Beyond monsters",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/BeyondDemons/BeyondPortal"
+      ],
+      "priority": 5,
+      "color": "#cf8c88",
+      "default": true,
+      "setting": "beyond"
+    },
+    {
+      "id": "torment",
+      "label": "Tormented spirits",
+      "group": "Mechanics",
+      "patterns": [
+        "Metadata/Monsters/Torment/"
+      ],
+      "priority": 5,
+      "color": "#83c6a7",
+      "default": false,
+      "setting": "torment"
+    },
+    {
+      "id": "arcanist",
+      "label": "Arcanist\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Arcanist"
+      ],
+      "priority": 2,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "arcanist"
+    },
+    {
+      "id": "diviner",
+      "label": "Diviner\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Diviner",
+        "Metadata/Chests/StrongBoxes/StrongboxDivination"
+      ],
+      "priority": 2,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "diviner"
+    },
+    {
+      "id": "cartographer",
+      "label": "Cartographer\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Cartographer"
+      ],
+      "priority": 2,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "cartographer"
+    },
+    {
+      "id": "operative",
+      "label": "Operative\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/StrongboxScarab",
+        "Metadata/Chests/StrongBoxes/Operative"
+      ],
+      "priority": 2,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "operative"
+    },
+    {
+      "id": "gemcutter",
+      "label": "Gemcutter\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Gemcutter"
+      ],
+      "priority": 4,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "gemcutter"
+    },
+    {
+      "id": "jeweller",
+      "label": "Jeweller\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Jeweller"
+      ],
+      "priority": 4,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "jeweller"
+    },
+    {
+      "id": "artisan",
+      "label": "Artisan\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Artisan"
+      ],
+      "priority": 4,
+      "color": "#e3c176",
+      "default": true,
+      "setting": "artisan"
+    },
+    {
+      "id": "blacksmith",
+      "label": "Blacksmith\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Arsenal"
+      ],
+      "priority": 9,
+      "color": "#9ca7b8",
+      "default": false,
+      "setting": "blacksmith"
+    },
+    {
+      "id": "armourer",
+      "label": "Armourer\u2019s Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Armory"
+      ],
+      "priority": 9,
+      "color": "#9ca7b8",
+      "default": false,
+      "setting": "armourer"
+    },
+    {
+      "id": "ornate",
+      "label": "Ornate Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Ornate"
+      ],
+      "priority": 9,
+      "color": "#9ca7b8",
+      "default": false,
+      "setting": "ornate"
+    },
+    {
+      "id": "large",
+      "label": "Large Strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Large"
+      ],
+      "priority": 9,
+      "color": "#9ca7b8",
+      "default": false,
+      "setting": "large"
+    },
+    {
+      "id": "ordinary",
+      "label": "Ordinary strongbox",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Chests/StrongBoxes/Strongbox"
+      ],
+      "priority": 9,
+      "color": "#9ca7b8",
+      "default": false,
+      "setting": "ordinary"
+    },
+    {
+      "id": "strange_barrel",
+      "label": "Strange Barrel",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/BarrelOfSpidersDaemonUnique"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "kaoms_cache",
+      "label": "Kaom\u2019s Cache",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonKaomTotems",
+        "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest2",
+        "Metadata/Chests/StrongBoxes/KaomBox"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "empyrean",
+      "label": "Empyrean Apparatus",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest3"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "ashes",
+      "label": "Ashes of the Condemned",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest4",
+        "Metadata/Monsters/Daemon/ChestDaemonSummonTormentContinous"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "deshret",
+      "label": "Deshret\u2019s Storm",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonSandstormDaemon"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "perandus_bank",
+      "label": "Perandus Bank",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonExileUniqueChest1",
+        "Metadata/Chests/StrongBoxes/PerandusBox"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "weylam",
+      "label": "Weylam\u2019s War Chest",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/WeylamsWarchestUnique"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "hysteria",
+      "label": "Essence of Hysteria",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonMadness1"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "insanity",
+      "label": "Essence of Insanity",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonInsanity1"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "horror",
+      "label": "Essence of Horror",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonHorror1"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "delirium_essence",
+      "label": "Essence of Delirium",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonTerror1_"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "misery",
+      "label": "Essence of Misery",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonChaosDegenPulse"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "envy",
+      "label": "Essence of Envy",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonGrab"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "scorn",
+      "label": "Essence of Scorn",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterCrit"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "dread",
+      "label": "Essence of Dread",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/Daemon/EssenceDaemonSummonChaosGolem"
+      ],
+      "priority": 2,
+      "color": "#d09de7",
+      "default": true,
+      "setting": "special_essences"
+    },
+    {
+      "id": "hyrri",
+      "label": "Hyrri \u00c2\u00b7 Legion general",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/LegionLeague/LegionKaruiGeneral"
+      ],
+      "priority": 2,
+      "color": "#c6a0ec",
+      "default": true,
+      "setting": "legion_generals"
+    },
+    {
+      "id": "aukuna",
+      "label": "Aukuna \u00c2\u00b7 Legion general",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/LegionLeague/LegionMarakethGeneral"
+      ],
+      "priority": 2,
+      "color": "#c6a0ec",
+      "default": true,
+      "setting": "legion_generals"
+    },
+    {
+      "id": "lioneye",
+      "label": "Lioneye \u00c2\u00b7 Legion general",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/LegionLeague/LegionEternalEmpireGeneral"
+      ],
+      "priority": 2,
+      "color": "#c6a0ec",
+      "default": true,
+      "setting": "legion_generals"
+    },
+    {
+      "id": "napuatzi",
+      "label": "Napuatzi \u00c2\u00b7 Legion general",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/LegionLeague/LegionVaalGeneral"
+      ],
+      "priority": 2,
+      "color": "#c6a0ec",
+      "default": true,
+      "setting": "legion_generals"
+    },
+    {
+      "id": "vox",
+      "label": "Vox \u00c2\u00b7 Legion general",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/LegionLeague/LegionTemplarGeneral"
+      ],
+      "priority": 2,
+      "color": "#c6a0ec",
+      "default": true,
+      "setting": "legion_generals"
+    },
+    {
+      "id": "abyss_depths",
+      "label": "Abyssal Depths entrance",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition"
+      ],
+      "priority": 2,
+      "color": "#a9ca78",
+      "default": true,
+      "setting": "abyss_depths"
+    },
+    {
+      "id": "abyss_lich",
+      "label": "Abyss lich",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/ReligiousTemplar/AbyssLichBoss"
+      ],
+      "priority": 1,
+      "color": "#b5d28b",
+      "default": true,
+      "setting": "abyss_lich"
+    },
+    {
+      "id": "chayula",
+      "label": "Chayula",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Monsters/BreachBosses/BreachBossChaosWild",
+        "Metadata/Monsters/BreachBosses/BreachBossChaosMap"
+      ],
+      "priority": 1,
+      "color": "#dca3d4",
+      "default": true,
+      "setting": "chayula"
+    },
+    {
+      "id": "lab_trial",
+      "label": "Labyrinth trial",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/QuestObjects/Labyrinth/LabyrinthTrialPortal"
+      ],
+      "priority": 4,
+      "color": "#d1b387",
+      "default": true,
+      "setting": "lab_trial"
+    },
+    {
+      "id": "vaal_side",
+      "label": "Vaal side area",
+      "group": "Notables",
+      "patterns": [
+        "Metadata/Terrain/Doodads/vaal_sidearea_effects/soulcoaster.ao"
+      ],
+      "priority": 4,
+      "color": "#c88888",
+      "default": true,
+      "setting": "vaal_side"
+    },
+    {
+      "id": "redblade",
+      "label": "Redblade Cache",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonFireWarband"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "mutewind",
+      "label": "Mutewind Cache",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonColdWarband"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "brinerot",
+      "label": "Brinerot Cache",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonLightningWarband"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    },
+    {
+      "id": "renegades",
+      "label": "Renegades Cache",
+      "group": "Strongboxes",
+      "patterns": [
+        "Metadata/Monsters/Daemon/ChestDaemonSummonChaosWarband"
+      ],
+      "priority": 1,
+      "color": "#e6a36c",
+      "default": true,
+      "setting": "unique_boxes"
+    }
+  ]
+}

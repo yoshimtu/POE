@@ -1,0 +1,2685 @@
+{
+  "schema": 1,
+  "description": "Factual game area/tile identifiers and destination names. Independent resolver; no upstream runtime code.",
+  "sources": [
+    "https://github.com/exApiTools/Radar/blob/master/targets.json",
+    "Current client WorldAreas identifiers/names read on Steam build 25113903"
+  ],
+  "areas": {
+    "*": [
+      {
+        "tile": "waypoint",
+        "label": "Waypoint",
+        "kind": "waypoint",
+        "count": 1
+      }
+    ],
+    "2_6_2": [
+      {
+        "tile": "beachtownnorth",
+        "label": "Lioneye's Watch",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "block",
+        "label": "Area Transitions",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_2": [
+      {
+        "tile": "beachtownnorth",
+        "label": "Lioneye's Watch",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "karui",
+        "label": "Both Transitions",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_2a": [
+      {
+        "tile": "karui",
+        "label": "The Coast",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "medicineboat",
+        "label": "Hailrake",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_1_3": [
+      {
+        "tile": "watercave",
+        "label": "The Submerged Passage",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Fetid Pool",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "rhoanest",
+        "label": "Rhoa Nest",
+        "kind": "quest",
+        "count": 3
+      }
+    ],
+    "1_1_4_1": [
+      {
+        "tile": "entrance",
+        "label": "The Mud Flats",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "towaterydepths",
+        "label": "The Flooded Depths",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "The Ledge",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_5": [
+      {
+        "tile": "caveentrance",
+        "label": "The Submerged Passage",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "passageway",
+        "label": "The Climb",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_6": [
+      {
+        "tile": "prisonback",
+        "label": "The Lower Prison",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "passageway",
+        "label": "The Ledge",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_7_1": [
+      {
+        "tile": "entrance",
+        "label": "The Climb",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "The Upper Prison",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_7_2": [
+      {
+        "tile": "entranceup",
+        "label": "The Warden's Quarters",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bossentrance2",
+        "label": "The Warden's Chambers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exitdoor",
+        "label": "Prisoner's Gate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrancedown",
+        "label": "Area Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdt",
+        "label": "Flask Strongbox",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_1_8": [
+      {
+        "tile": "shippassagea",
+        "label": "The Ship Graveyard",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_9": [
+      {
+        "tile": "shipwreckquest",
+        "label": "Captain Fairgraves",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "shipentrance",
+        "label": "The Ship Graveyard Cave",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "shippassageb",
+        "label": "The Prisoner's Gate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "skeletoncave",
+        "label": "The Cavern Of Wrath",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "skeletoncavecliff",
+        "label": "The Cavern Of Wrath",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_9a": [
+      {
+        "tile": "boatallflame",
+        "label": "Allflame",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_1_11_1": [
+      {
+        "tile": "entrance",
+        "label": "The Ship Graveyard",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "The Cavern of Anger",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_11_2": [
+      {
+        "tile": "entrancedown",
+        "label": "The Cavern of Wrath",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "Merveil's Lair",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrancedownboss",
+        "label": "The Cavern of Anger",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "mervexit",
+        "label": "The Southern Forest",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_1": [
+      {
+        "tile": "foresttowndock",
+        "label": "The Forest Encampment",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_2": [
+      {
+        "tile": "foresttownright",
+        "label": "The Forest Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "gatetransition",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "cave",
+        "label": "The Den",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_2a": [
+      {
+        "tile": "exitup",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_3": [
+      {
+        "tile": "bridgetransition",
+        "label": "The Broken Bridge",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "templeentrance",
+        "label": "The Chamber of Sins Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "gatetransitionReverse",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_2_15": [
+      {
+        "tile": "gatetransition",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "The Crypt Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/Leagues/Sanctum/Foyer/Tiles/reaper_entrance.tdt",
+        "label": "Statue",
+        "kind": "exit",
+        "count": 3
+      }
+    ],
+    "1_2_5_1": [
+      {
+        "tile": "exitdown",
+        "label": "The Crypt Level 2",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Fellshrine Ruins",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_5_2": [
+      {
+        "tile": "exit",
+        "label": "The Crypt Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "handaltar",
+        "label": "Altar",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_2_6_1": [
+      {
+        "tile": "outentrance",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exitdown",
+        "label": "The Chamber of Sins Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_6_2": [
+      {
+        "tile": "exitup",
+        "label": "Chamber of Sins Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "narrow_door",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "questcart",
+        "label": "Fidelitas",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "pit",
+        "label": "Gems",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_2_4": [
+      {
+        "tile": "bridgetransition",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "brokenbridge",
+        "label": "Kraityn",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_2_7": [
+      {
+        "tile": "foresttownleft",
+        "label": "The Forest Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bridgetransition",
+        "label": "The Wetlands",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tunnel",
+        "label": "The Western Forest",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_9": [
+      {
+        "tile": "tunnel",
+        "label": "The Riverways",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "spidergroveentrance",
+        "label": "The Weaver's Chambers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "witcharena",
+        "label": "Alira",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "passage",
+        "label": "Skillpoint",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_10": [
+      {
+        "tile": "exitlit",
+        "label": "The Western Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Weaver's Nest",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_2_12": [
+      {
+        "tile": "entrance",
+        "label": "The Vaal Ruins",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bridgetransition",
+        "label": "The Riverways",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "oakgate",
+        "label": "Oak",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_2_11": [
+      {
+        "tile": "exit",
+        "label": "Area Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "boss",
+        "label": "Ancient Seal",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_2_8": [
+      {
+        "tile": "incaexit",
+        "label": "The Vaal Ruins",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "waterfallcave",
+        "label": "The Caverns",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "groveentrance",
+        "label": "The Dread Thicket",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_13": [
+      {
+        "tile": "exit",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "cave",
+        "label": "Lush Hideout",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_14_2": [
+      {
+        "tile": "exitdown",
+        "label": "The Northern Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_boss_v01_01.tdt",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "stairsup",
+        "label": "The Ancient Pyramid",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_2_14_3": [
+      {
+        "tile": "stairsdown",
+        "label": "stairsdown",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "stairsup",
+        "label": "stairsup",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "emerge",
+        "label": "Vaal",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "exitdoor",
+        "label": "The City of Sarn",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_1": [
+      {
+        "tile": "exit",
+        "label": "The Sarn Encampment",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_2": [
+      {
+        "tile": "slumsentrance",
+        "label": "The Sarn Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "sewer",
+        "label": "The Sewers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "prison",
+        "label": "The Crematorium",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_3_1": [
+      {
+        "tile": "entranceup",
+        "label": "The Slums",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "questmarker",
+        "label": "Piety",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_3_10_1": [
+      {
+        "tile": "stash",
+        "label": "Platinum Bust",
+        "kind": "quest",
+        "count": 3
+      },
+      {
+        "tile": "endexit",
+        "label": "The slums",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "sewerentrance",
+        "label": "The Marketplace",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Ebony Barracks",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_5": [
+      {
+        "tile": "churchentrance",
+        "label": "The Catacombs",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Battlefront",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "sewer",
+        "label": "The Sewers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "decanter",
+        "label": "Decanter Spiritus",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_3_6": [
+      {
+        "tile": "exit",
+        "label": "The Marketplace",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_7": [
+      {
+        "tile": "exit",
+        "label": "The Docks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "templeentrance",
+        "label": "The Solaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "The Marketplace",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "brokenbridge",
+        "label": "Blackguard Chest",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_3_9": [
+      {
+        "tile": "exit",
+        "label": "The Battlefront",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "questcart",
+        "label": "Supply Container",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_3_8_1": [
+      {
+        "tile": "templeentrance",
+        "label": "The Battlefront",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "stairsdown",
+        "label": "The Solaris Temple Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_8_2": [
+      {
+        "tile": "exit",
+        "label": "The Solaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "queenchair",
+        "label": "Lady Dialla",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_3_13": [
+      {
+        "tile": "sewers",
+        "label": "The Sewers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "templeentrance",
+        "label": "The Lunaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "largetent",
+        "label": "General Gravicious",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Imperial Gardens",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_14_1": [
+      {
+        "tile": "templeentrance",
+        "label": "The Ebony Barracks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "stairsdown",
+        "label": "The Lunaris Temple Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_14_2": [
+      {
+        "tile": "exit",
+        "label": "The Lunaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "roundtopcenter",
+        "label": "Piety",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_3_15": [
+      {
+        "tile": "exit",
+        "label": "The Ebony Barracks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "epic",
+        "label": "The Sceptre of God",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "The Library",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "3x1_gateway",
+        "label": "Trial of Ascendency",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "fruit",
+        "label": "Plum",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_3_17_1": [
+      {
+        "tile": "entrance",
+        "label": "The Imperial Gardens",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "siosa",
+        "label": "Siosa",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Archives",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_3_17_2": [
+      {
+        "tile": "entrancebook",
+        "label": "The Library",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "large",
+        "label": "Book Stand",
+        "kind": "quest",
+        "count": 4
+      }
+    ],
+    "1_3_18_1": [
+      {
+        "tile": "epic",
+        "label": "The Imperial Gardens",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "up",
+        "label": "Stairs Up",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "down",
+        "label": "Stairs Down",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_3_18_2": [
+      {
+        "tile": "down",
+        "label": "Stairs Down",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "up",
+        "label": "Stairs Up",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "exit",
+        "label": "Dominus",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_1": [
+      {
+        "tile": "townconnection",
+        "label": "Highgate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "Waypoint",
+        "kind": "waypoint",
+        "count": 1
+      },
+      {
+        "tile": "waterwheel",
+        "label": "Unique Boss",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_2": [
+      {
+        "tile": "entrance",
+        "label": "Highgate",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_4_3_1": [
+      {
+        "tile": "entrance",
+        "label": "entrance",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_4_3_3": [
+      {
+        "tile": "beast",
+        "label": "The Belly of the Beast Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "Area Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "entrancedown",
+        "label": "Excavated Hideout",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_4_3_2": [
+      {
+        "tile": "entrancedown",
+        "label": "The Crystal Veines",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceback",
+        "label": "The Mines Level 1",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_4_5_1": [
+      {
+        "tile": "entrance",
+        "label": "The Grand Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_5_2": [
+      {
+        "tile": "entrance1",
+        "label": "Daresso's Dream",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "daressoentrance",
+        "label": "Daresso Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "Door",
+        "kind": "exit",
+        "count": 7
+      },
+      {
+        "tile": "trapdoor",
+        "label": "Door Back",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "doormerveil",
+        "label": "Door Next",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "gladiatortrapdoor",
+        "label": "Gladiators Door Back",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_4_4_1": [
+      {
+        "tile": "areatransition",
+        "label": "Kaom's Stronghold",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_4_4_3": [
+      {
+        "tile": "k3",
+        "label": "Kaom's Dream",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "throne",
+        "label": "Kaom Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_6_1": [
+      {
+        "tile": "entrance",
+        "label": "Area Transition",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "1_4_6_2": [
+      {
+        "tile": "entrance",
+        "label": "Area Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "onewaydoor",
+        "label": "Piety Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_6_3": [
+      {
+        "tile": "entrance",
+        "label": "Belly of the Beast Level 2",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "maligaroarena",
+        "label": "Maligaro Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "shavronnearena",
+        "label": "Shavronne Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "doedrearena",
+        "label": "Doedre Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "taster",
+        "label": "Malachai Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_4_7": [
+      {
+        "tile": "transition",
+        "label": "The Slave Pens",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "pinnacle",
+        "label": "The Slave Pens",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_1": [
+      {
+        "tile": "town",
+        "label": "Overseer's Tower",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_2": [
+      {
+        "tile": "town",
+        "label": "Overseer's Tower",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "Oriath / Ruined Square",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "ddclosed",
+        "label": "Miasmeter",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_5_3b": [
+      {
+        "tile": "04",
+        "label": "The Ossuary",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "corner_to_entrance",
+        "label": "The Control Blocks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "02",
+        "label": "The Reliquary",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Cathedral Rooftop",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "03",
+        "label": "The Templar / Torched Courts",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "1_5_4b": [
+      {
+        "tile": "entrance",
+        "label": "Oriath / The Ruined Square",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "innocence_transition",
+        "label": "The Chamber of Innocence",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_5": [
+      {
+        "tile": "templar_courts_entrance",
+        "label": "The Templar / Torched Courts",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "epic_stair",
+        "label": "High Templar Avarius Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_5_6": [
+      {
+        "tile": "secretpassage",
+        "label": "Quest Item",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transitiondownbroken",
+        "label": "The Ruined Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_7": [
+      {
+        "tile": "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_Oriath_transition_v01_01.tdt",
+        "label": "The Ruined Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_8": [
+      {
+        "tile": "arena",
+        "label": "Kitava Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "chitus",
+        "label": "The Ruined Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_1": [
+      {
+        "tile": "beachtownsouth",
+        "label": "Lioneye's Watch",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "zombiebite",
+        "label": "Boss",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_6_3": [
+      {
+        "tile": "karui",
+        "label": "The Coast",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "medicineboat",
+        "label": "Riptide",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_6_4": [
+      {
+        "tile": "karui_reverse",
+        "label": "The Coast",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Karui Fortress",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "watercave",
+        "label": "The Dishonoured Queen",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_6_5": [
+      {
+        "tile": "ridge",
+        "label": "The Ridge",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Mud Flats",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tokuhama",
+        "label": "Tukohama Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_6_6": [
+      {
+        "tile": "transition",
+        "label": "The Karui Fortress",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "prisonback",
+        "label": "The Lower Prison",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_7_1": [
+      {
+        "tile": "scaffold",
+        "label": "The Ridge",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "shavronne",
+        "label": "Shavronne's Tower",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_7_2": [
+      {
+        "tile": "shavronne2",
+        "label": "The Lower Prison",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "Stairs Up",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "entrancedown",
+        "label": "Stairs Down",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "ladder_up",
+        "label": "Shavronne Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "exitdoor",
+        "label": "Prisoner's Gate",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_8": [
+      {
+        "tile": "passageblock",
+        "label": "The Western Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition3",
+        "label": "Valley of the Fire Drinker",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "2_6_9": [
+      {
+        "tile": "passage",
+        "label": "Prisoner's Gate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tunnel",
+        "label": "The Riverways",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_10": [
+      {
+        "tile": "bridgetransition",
+        "label": "The Wetlands",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tunnel",
+        "label": "The Western Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Southern Forest",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_11": [
+      {
+        "tile": "roadend",
+        "label": "The Riverways",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "caveentrance",
+        "label": "The Spawning Ground",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "2_6_12": [
+      {
+        "tile": "foresttowndock",
+        "label": "The Riverways",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "caveentrance",
+        "label": "The Cavern of Anger",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_13": [
+      {
+        "tile": "mervexit",
+        "label": "The Southern Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrancedownboss",
+        "label": "Passage",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "nessa_corner",
+        "label": "Flag Chest",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "coral_hideout",
+        "label": "Coral Hideout",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceup",
+        "label": "Area Transition (50-50)",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "edge",
+        "label": "Near Real Area Transition",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_6_14": [
+      {
+        "tile": "caveentrance",
+        "label": "The Cavern of Anger",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "payload",
+        "label": "Beacon",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "weylamwalk",
+        "label": "Weylam",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_6_15": [
+      {
+        "tile": "transition",
+        "label": "The Brine King Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_7_1": [
+      {
+        "tile": "partial",
+        "label": "The Bridge Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bridgetransition",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "manorcorner",
+        "label": "Dirty Lockbox",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_7_2": [
+      {
+        "tile": "templeentrance",
+        "label": "The Chamber of Sins Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "gatetransitionReverse",
+        "label": "The Fellshrine Ruins",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bridgetransition",
+        "label": "The Broken Bridge",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_3": [
+      {
+        "tile": "gatetransition",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "The Crypt Level 1",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_4": [
+      {
+        "tile": "exit",
+        "label": "The Fellshrine Ruins",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "LabyrinthDoor",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "sarcophigusentrance",
+        "label": "Stairs",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrancebook",
+        "label": "Stairs",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_5_1": [
+      {
+        "tile": "exitdown",
+        "label": "The Chamber of Sins Lever 2",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "outentrance",
+        "label": "The Crossroads",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "maporrey4",
+        "label": "Map Device",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_7_5_2": [
+      {
+        "tile": "exitup",
+        "label": "The Chamber of Sins Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "narrow_door",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "maligaro",
+        "label": "The Den",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exitdown",
+        "label": "Baleful Hideout",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_6": [
+      {
+        "tile": "exitup",
+        "label": "The Ashen Fields",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "down",
+        "label": "The Chamber of Sins Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_7": [
+      {
+        "tile": "cave",
+        "label": "The Den",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "banditcamp",
+        "label": "Greust Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_7_8": [
+      {
+        "tile": "groveentrance",
+        "label": "The Dread Thicket",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Causeway",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "azmeri_shrine",
+        "label": "Azmeri Shrine",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_7_9": [
+      {
+        "tile": "exit",
+        "label": "The Northern Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "cave",
+        "label": "Den of Despair",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_7_10": [
+      {
+        "tile": "transition",
+        "label": "The Northern Forest",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "bottom",
+        "label": "The Vaal City",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_11": [
+      {
+        "tile": "top",
+        "label": "The Causeway",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Temple of Decay Level 1",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_12_1": [
+      {
+        "tile": "entrance",
+        "label": "The Vaal City",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "stairsdown",
+        "label": "Stairs Down",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "stairsup",
+        "label": "Stairs Up",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_7_12_2": [
+      {
+        "tile": "stairsdown",
+        "label": "Stairs Down",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "stairsup",
+        "label": "Stairs Up",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "exit",
+        "label": "Arakaali Arena/Exit",
+        "kind": "boss",
+        "count": 2
+      }
+    ],
+    "2_8_1": [
+      {
+        "tile": "trapdoor",
+        "label": "Stairs",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "The Sarn Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transitionwall",
+        "label": "Mid-area",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "2_8_2_1": [
+      {
+        "tile": "transition",
+        "label": "The Sarn Encampment",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "endexit",
+        "label": "Doedre's Cesspool",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_2_2": [
+      {
+        "tile": "endexit",
+        "label": "The Toxic Conduits",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "sewer",
+        "label": "Loose Grate",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "sewerentrance",
+        "label": "The Quay",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "ladderw",
+        "label": "The Grand Promenade",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_8": [
+      {
+        "tile": "opengrate",
+        "label": "Doedre's Cesspool",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "Resurrection Site / The Grain Gate",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "A",
+        "label": "Quest item",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_8_9": [
+      {
+        "tile": "transition",
+        "label": "The Quay",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "graingate",
+        "label": "The Imperial Fields",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entranceslums",
+        "label": "Skillpoint",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/slum_sewer_entrance_warehouse.tdt",
+        "label": "The Hidden Underbelly",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_10": [
+      {
+        "tile": "transition",
+        "label": "The Grain Gate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "templeentrance",
+        "label": "The Solaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_12_1": [
+      {
+        "tile": "templeentrance",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "forcedblank",
+        "label": "Pressure Plate",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "stairsdown",
+        "label": "The Solaris Temple Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_12_2": [
+      {
+        "tile": "exit",
+        "label": "The Solaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "queenchair",
+        "label": "Solaris Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_8_11": [
+      {
+        "tile": "templeentrance",
+        "label": "The Solaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "battlefront_harbor",
+        "label": "The Harbour Bridge",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "hidden_tunnel",
+        "label": "The Hidden Underbelly",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_13": [
+      {
+        "tile": "battlefront_harbor",
+        "label": "The Solaris Concourse",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "arena_false",
+        "label": "The Sky Shrine",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "SPECIAL",
+        "label": "The Lunaris Concourse",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_6": [
+      {
+        "tile": "bath_house",
+        "label": "The Bath House",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "templeentrance",
+        "label": "The Lunaris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "broken",
+        "label": "The Harbour Bridge",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_5": [
+      {
+        "tile": "entry",
+        "label": "Exit/Hideout",
+        "kind": "exit",
+        "count": 5
+      },
+      {
+        "tile": "rosette3_waypoint",
+        "label": "Waypoint",
+        "kind": "waypoint",
+        "count": 1
+      },
+      {
+        "tile": "lava",
+        "label": "Trial of Ascendency",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "hidden_tunnel",
+        "label": "The Hidden Underbelly",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_3": [
+      {
+        "tile": "aresenal",
+        "label": "The Bath House",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/RuinedCity/LargeWall/battlefield_arch_v01_03.tdt",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "ladder",
+        "label": "The Toxic Conduits",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_4": [
+      {
+        "tile": "entrance",
+        "label": "Exit / Arena",
+        "kind": "boss",
+        "count": 3
+      }
+    ],
+    "2_8_7_1_": [
+      {
+        "tile": "templeentrance",
+        "label": "The Lunaris Concourse",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/Temple/Stairs/templeclean_stairs_convex_v01_01.tdt",
+        "label": "Pressure Plate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "stairsdown",
+        "label": "The Lunaris Temple Level 2",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_8_7_2": [
+      {
+        "tile": "exit",
+        "label": "The Lunris Temple Level 1",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "roundtopcenter",
+        "label": "Lunaris Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_8_14": [
+      {
+        "tile": "sewerentrance",
+        "label": "The Grain Gate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_03.tdt",
+        "label": "The Solaris Concourse / The Bath House",
+        "kind": "quest",
+        "count": 2
+      }
+    ],
+    "2_9_1": [
+      {
+        "tile": "entrance",
+        "label": "Waypoint",
+        "kind": "waypoint",
+        "count": 1
+      },
+      {
+        "tile": "townconnection",
+        "label": "Highgate",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_2": [
+      {
+        "tile": "transition",
+        "label": "Highgate",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "topwinch",
+        "label": "Supply Host",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "winch",
+        "label": "Supply Host",
+        "kind": "quest",
+        "count": 2
+      }
+    ],
+    "2_9_3": [
+      {
+        "tile": "elevator",
+        "label": "The Descent",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "foothills",
+        "label": "The Foothills",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "wagons_reverse",
+        "label": "The Oasis",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_4": [
+      {
+        "tile": "impassable",
+        "label": "The Vastiri Desert",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "rockwalltransition",
+        "label": "The Sand Pit",
+        "kind": "exit",
+        "count": 2
+      }
+    ],
+    "2_9_5": [
+      {
+        "tile": "lake",
+        "label": "The Boiling Lake",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "desert",
+        "label": "The Vastiri Desert",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tunnel",
+        "label": "The Tunnel",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_6": [
+      {
+        "tile": "entrance",
+        "label": "The Foothills",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "statueground",
+        "label": "The Basilisk",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_9_7": [
+      {
+        "tile": "entrance",
+        "label": "The Foothills",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exit",
+        "label": "The Quarry",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "doorframe",
+        "label": "Trial of Ascendency",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_8": [
+      {
+        "tile": "slums_transition",
+        "label": "Shrine of the Winds",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "warehouse_rails",
+        "label": "The Refinery",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "tunnels",
+        "label": "The Tunnel",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "beast_membrane",
+        "label": "The Belly of the Beast",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_9": [
+      {
+        "tile": "entry_main",
+        "label": "The Quarry",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "hidden_tunnel",
+        "label": "Refinery Tunnels",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "boss_transition",
+        "label": "General Adus Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_9_10_1": [
+      {
+        "tile": "quarry",
+        "label": "The Quarry",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "rottingcore",
+        "label": "The Rotting Core",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_9_10_2": [
+      {
+        "tile": "entrance",
+        "label": "The Belly of the Beast",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "doordown",
+        "label": "The Black Core",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "shavronnearena",
+        "label": "Shavronne Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "doedrearena",
+        "label": "Doedre Arena",
+        "kind": "boss",
+        "count": 1
+      },
+      {
+        "tile": "maligaroarena",
+        "label": "Maligaro Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_10_1": [
+      {
+        "tile": "sindock",
+        "label": "Oriath Docks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "arena",
+        "label": "Cathedral Apex",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "chitus",
+        "label": "The Ravaged Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_10_2": [
+      {
+        "tile": "04",
+        "label": "The Ossuary",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "slaveden",
+        "label": "The Control Blocks",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "03",
+        "label": "The Torched Courts",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "02",
+        "label": "The Reliquary/VaalSideArea",
+        "kind": "quest",
+        "count": 2
+      },
+      {
+        "tile": "height2",
+        "label": "The Cathedral Rooftop",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_10_9": [
+      {
+        "tile": "abyss_transition",
+        "label": "The Ravaged Square/Hideout",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "transition",
+        "label": "The Ossuary",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "firepit",
+        "label": "The Trial of Ascendency/Quest item",
+        "kind": "quest",
+        "count": 1
+      }
+    ],
+    "2_10_4": [
+      {
+        "tile": "templar_courts_entrance",
+        "label": "The Torched Courts",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "epic_stair",
+        "label": "Avarius Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "2_10_3": [
+      {
+        "tile": "innocence_transition",
+        "label": "The Desecrated Chambers",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance",
+        "label": "The Ravaged Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_10_7": [
+      {
+        "tile": "exit",
+        "label": "The Ravaged Square",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "Vilenta Arena",
+        "kind": "boss",
+        "count": 2
+      }
+    ],
+    "2_10_5": [
+      {
+        "tile": "transition",
+        "label": "The Feeding Trough",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "reverse_feedingtrough",
+        "label": "The Ravaged Square",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "2_10_6": [
+      {
+        "tile": "transition",
+        "label": "The Canals",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "SPECIAL",
+        "label": "Kitava Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_1_1": [
+      {
+        "tile": "beachtownsouth",
+        "label": "Town",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_1_4_0": [
+      {
+        "tile": "forcedblank",
+        "label": "Unique Monster",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "1_5_3": [
+      {
+        "tile": "slaveden",
+        "label": "slaveden",
+        "kind": "quest",
+        "count": 1
+      },
+      {
+        "tile": "03",
+        "label": "Templar Courts Entrance",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "1_5_4": [
+      {
+        "tile": "entrance",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "innocence_transition",
+        "label": "The Chamber Of Innocence",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "MapWorldsCitadel": [
+      {
+        "tile": "side_entrance",
+        "label": "Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "MapWorldsFortress": [
+      {
+        "tile": "robot_arena",
+        "label": "Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "MapWorldsSanctuary": [
+      {
+        "tile": "Metadata/Terrain/Theopolis/Innocence/Stairs/Innocence_stairs_straight_v01_01.tdt",
+        "label": "Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "MapWorldsZiggurat": [
+      {
+        "tile": "transition",
+        "label": "Arena",
+        "kind": "boss",
+        "count": 2
+      }
+    ],
+    "MapWorldsAbomination": [
+      {
+        "tile": "boss_arena",
+        "label": "Arena",
+        "kind": "boss",
+        "count": 1
+      }
+    ],
+    "*_Labyrinth_*": [
+      {
+        "tile": "entry",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "airlock_exit",
+        "label": "Back",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "exitup",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "exit",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "entranceup",
+        "label": "Exit",
+        "kind": "exit",
+        "count": 3
+      },
+      {
+        "tile": "slide",
+        "label": "Secret door",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "hidden",
+        "label": "Secret door",
+        "kind": "exit",
+        "count": 1
+      }
+    ],
+    "Sanctum*": [
+      {
+        "tile": "airlock_transition",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 10
+      },
+      {
+        "tile": "square_transition",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 10
+      },
+      {
+        "tile": "areatransition",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition_down",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "exitdown",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "entrance_upper",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 2
+      },
+      {
+        "tile": "abyss_transition",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 1
+      },
+      {
+        "tile": "transition",
+        "label": "Transition",
+        "kind": "exit",
+        "count": 3
+      }
+    ],
+    "MapWorldsStrand": [
+      {
+        "tile": "beachtownnorth",
+        "label": "Arena",
+        "kind": "exit",
+        "count": 1
+      }
+    ]
+  },
+  "boss_exclusions": {
+    "metadata_prefixes": [
+      "Metadata/Monsters/TentaclePortal/",
+      "Metadata/Monsters/BeyondDemons/BeyondPortal",
+      "Metadata/Monsters/VolatileCore/"
+    ],
+    "names": [
+      "Null Portal",
+      "Volatile Core"
+    ]
+  }
+}

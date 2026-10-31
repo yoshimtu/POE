@@ -1,0 +1,15 @@
+# Working on Waymark
+
+Read `PROJECT.md` for the architecture, commands, and known limitations. Inspect the relevant source and tests before editing; older README entries and Logs describe historical states.
+
+- Make minimal, targeted changes that preserve existing behavior. Avoid unrelated cleanup, formatting, dependency upgrades, or rewrites. Match the surrounding Python style; this codebase mixes conventional formatting with compact code.
+- Before a potentially disruptive change (reader/process lifecycle, snapshot contracts, routing, settings migrations, sharing protocols, or packaging), explain the proposed approach, affected components, compatibility risks, and verification plan in plain language.
+- Keep responsibilities in their established layers: Windows access in `exile/platform.py`, decoding in the reader/profile adapter, patch-specific layout values in profile JSON, feature behavior in plugins, and rendering through snapshots/marks and shared presentation helpers.
+- Preserve read-only game access. Do not add gameplay input sending, injection, game-memory writes, or bypass exact executable-hash/build checks. Keep freshness, capability, focus, area/session identity, and generation checks intact. Never present synthetic data as live data.
+- Do not move process reads, network calls, or expensive route/terrain work onto the Qt UI thread. Preserve worker shutdown, cancellation, and stale-result rejection. Keep `main.py` multiprocessing startup safe for packaged Windows builds.
+- Plugins export `create_plugin()` returning `exile.model.Plugin`. Keep IDs and saved settings compatible; migrate renamed/merged settings. New modules default off. Use the shared snapshot rather than opening a separate game connection. Clear transient state in `stop()`.
+- Preserve `%LOCALAPPDATA%\ObsidianExile` storage compatibility despite the Waymark name. Do not reset real settings, feedback, caches, shared databases, or sessions for testing. Keep invites and session tokens out of logs and reports; do not publish user data or deploy sharing changes without task authorization.
+- Add a separate profile for a new game build. Never mark it validated from signatures or offsets alone; follow `profiles/README.md` and record checked and pending live cases.
+- Edit source resources, not generated `build/`, `dist/`, `releases/`, bytecode, or research copies. Use `Build.ps1` for releases; it stages only active plugins. Preserve artwork provenance and third-party notices.
+- Use `.venv-runtime` consistently via `UV_PROJECT_ENVIRONMENT`. Run relevant pytest tests for code changes, then the full suite when shared contracts are affected. Run `Build.ps1` and a packaged smoke check when dependencies, native code, resources, multiprocessing, or packaging change. Documentation-only work needs source/path/command checks, not a new release.
+- Report exactly which checks passed, failed, skipped, or were not run. Automated/synthetic checks do not establish live-game correctness. Explain major changes and technical choices in beginner-friendly language and update documentation when behavior or workflow changes.

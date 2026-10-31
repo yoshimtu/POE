@@ -1,0 +1,16 @@
+{
+  "name": "Steam build 25113903 \u2014 unverified candidate",
+  "steam_build": "25113903",
+  "exe_sha256": "78a0e227189c263658a7f65a02f086428b859bfc114ae8e7ce8aab721ebd48d5",
+  "validated": false,
+  "adapter": "steam_adapter.py",
+  "capabilities": [],
+  "offsets": {},
+  "upstream": {
+    "repository": "https://github.com/exApiTools/ExileApi-Compiled",
+    "commit": "55b23698ddfa23ed537d56a002fb3f399951a427",
+    "offset_library_updated": "2026-08-20T23:41:03Z",
+    "inspected": "2026-10-25"
+  },
+  "notes": "Reference DLL exists, but no validated root resolution/component decoding for this executable has been established. No offsets are invented. Do not mark validated without implementing and checking the adapter in-game."
+}

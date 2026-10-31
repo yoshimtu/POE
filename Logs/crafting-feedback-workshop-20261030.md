@@ -1,0 +1,11 @@
+# Crafting potential and assessment workflow
+
+- Advanced affix annotations now retain affix identity. Hybrid stat lines from one modifier occupy one prefix/suffix slot. Ordinary three-prefix/three-suffix equipment receives +0.15 per confirmed open slot, capped at +0.6, when it already has at least two coherent useful affixes and a base score of 3 or more. Scores remain capped at 10. Uncertain slots, unsupported item types, corrupted items and mirrored items receive no crafting bonus. This is a rating adjustment, not a chaos/divine market estimate.
+- Pure affix score and crafting bonus remain separate in saved evidence and in assessment explanations. Socket/link utility remains separate.
+- Removed arrow-key registration and handling. Hover/pinned and workshop assessments use compact Higher, Lower, Good and Build buttons. The Build menu updates the selected scoring preference and records an archetype feedback example with the rescored evidence.
+- Compact hover assessments retain their current item while the pointer or Build menu is interacting with the panel, so the buttons can be reached without copying text or game input.
+- Feedback history supports deleting selected entries, including multiple selections. Deletions persist atomically; existing export and notes are retained.
+- Item workshop has a separate saved enable checkbox. Its controls and assessment are disabled independently of Items & stash. Alt+F still transfers the latest item text while the workshop is disabled; re-enabling allows assessment.
+- Alt+F populates workshop text and results using the same live item model. Generated source preserves modifier annotations and measured socket/link counts, without inventing socket colours. The parser accepts those explicit counts for reassessment.
+- 224 tests passed. Added coverage for hybrid/open slots, no bonus on uncertain/corrupted/mirrored items, item-text roundtrip with links, history deletion persistence, Alt+F workshop population, archetype feedback and workshop enable-state persistence.
+- Actual widget screenshots inspected at `.reference/assessment-buttons.png` and `.reference/workshop-crafting.png`. In-game feedback/menu focus remains a user playtest.
